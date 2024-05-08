@@ -14,7 +14,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=SkufsIT&style=flat-square&color=blue" alt=""/>
   <h1>
-    Приветик
+    Hello
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   </div>
@@ -26,14 +26,14 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 </div>
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a DevOps Engineer, automating processes, managing infrastructure, and contributing to the smooth deployment of applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring new technologies and methodologies to improve the efficiency and scalability of systems.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I explore open source projects, optimize systems, and engage in discussions about modern infrastructure practices.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](t.me/pzaynekl)
 
@@ -62,13 +62,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :writing_hand: Blog Posts :
-
-
-        
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
-
-    
-
-
