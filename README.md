@@ -35,7 +35,10 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 - :zap: In my free time, I explore open source projects, optimize systems, and engage in discussions about modern infrastructure practices.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](t.me/pzaynekl)
+- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](t.me/pzaynekl)
+
+- :asterisk: I like to practice my knowledge and here you can see some of my solved programming problems: [![CodeWars Badge](https://img.shields.io/badge/-CodeWars-red?style=flat&logo=CodeWars&logoColor=white)](https://www.codewars.com/users/SkufsIT)
+    [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-red?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/skufsit/)
 
 ---
 
